@@ -87,16 +87,20 @@ endmodule
 
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/8451d07a-98ae-4662-b406-671400a7e353">
 
+
+**RTL**
+
+
+![Screenshot 2024-08-28 113634](https://github.com/user-attachments/assets/3f6c9220-eb35-4eea-ac5a-3a570a2c6307)
+
+
+
 **RTL realization Output:** 
 
 
 ![Screenshot 2024-08-28 113254](https://github.com/user-attachments/assets/649f4a52-423a-49de-b721-cf8d356eeb9b)
 
 
-**RTL**
-
-
-![Screenshot 2024-08-28 113634](https://github.com/user-attachments/assets/3f6c9220-eb35-4eea-ac5a-3a570a2c6307)
 
 
 **Result:**
